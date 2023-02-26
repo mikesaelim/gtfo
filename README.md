@@ -1,6 +1,6 @@
 # gtfo
 
-GTFO: Go The F*** Outside!
+[GTFO: Go The F*** Outside!](https://mikesaelim.github.io/gtfo/)
 
 
 ----
